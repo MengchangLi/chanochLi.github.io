@@ -1,12 +1,14 @@
+https://blog.chanoch.top/2023/02/26/thinkbook14/
 https://blog.chanoch.top/categories/index.html
 https://blog.chanoch.top/tags/index.html
 https://blog.chanoch.top/2023/01/30/raw-spider-note/
-https://blog.chanoch.top/2023/02/01/spider-preface/
 https://blog.chanoch.top/about/index.html
 https://blog.chanoch.top/
 https://blog.chanoch.top/tags/%E7%88%AC%E8%99%AB/
 https://blog.chanoch.top/tags/python/
-https://blog.chanoch.top/tags/%E6%95%99%E7%A8%8B/
 https://blog.chanoch.top/tags/%E5%8E%9F%E5%A7%8B%E7%AC%94%E8%AE%B0/
-https://blog.chanoch.top/categories/%E7%88%AC%E8%99%AB%E6%95%99%E7%A8%8B/
+https://blog.chanoch.top/tags/Linux/
+https://blog.chanoch.top/tags/6800H/
+https://blog.chanoch.top/tags/Thinkbook14/
 https://blog.chanoch.top/categories/%E5%8E%9F%E5%A7%8B%E7%AC%94%E8%AE%B0/
+https://blog.chanoch.top/categories/Linux/
