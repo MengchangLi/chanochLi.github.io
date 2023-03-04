@@ -1,9 +1,9 @@
-https://blog.chanoch.top/repository/index.html
+https://blog.chanoch.top/about/index.html
 https://blog.chanoch.top/2023/02/26/thinkbook14/
+https://blog.chanoch.top/repository/index.html
 https://blog.chanoch.top/categories/index.html
 https://blog.chanoch.top/tags/index.html
 https://blog.chanoch.top/2023/01/30/raw-spider-note/
-https://blog.chanoch.top/about/index.html
 https://blog.chanoch.top/
 https://blog.chanoch.top/tags/Linux/
 https://blog.chanoch.top/tags/6800H/

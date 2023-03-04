@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.chanoch.top/repository/index.html</loc>
+    <loc>https://blog.chanoch.top/about/index.html</loc>
     
     <lastmod>2023-03-04</lastmod>
     
@@ -13,7 +13,16 @@
   <url>
     <loc>https://blog.chanoch.top/2023/02/26/thinkbook14/</loc>
     
-    <lastmod>2023-03-01</lastmod>
+    <lastmod>2023-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chanoch.top/repository/index.html</loc>
+    
+    <lastmod>2023-03-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://blog.chanoch.top/2023/01/30/raw-spider-note/</loc>
-    
-    <lastmod>2023-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chanoch.top/about/index.html</loc>
     
     <lastmod>2023-02-18</lastmod>
     
